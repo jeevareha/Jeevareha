@@ -1,21 +1,19 @@
 <h1>Hi, I'm Jeeva! <br/> <a href="https://www.linkedin.com/in/jeevareha-krishnaraj-a583832b5/">Software Quality Engineer</a>, 
   <a href="https://www.youtube.com/channel/UC6u2td1udB2T524M42gU4hg">YouTuber</a></h1>
 
-<h2>👨‍💻 Software Development Projects:</h2>
+<h2>👨‍💻 Data Analysis Projects:</h2>
 
-- <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
-  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
-- <b>Full Stack Web App (React, NodeJS, Azure, and Machine Learning Components)</b>
-  - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
-- <b>PowerShell</b>
-  - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/joshmadakor1/Sentinel-Lab)
-  - [JWipe (Disk Wiping Utility)](https://github.com/joshmadakor1/Jwipe.PowerShell)
-  - [Active Directory Bulk User Creation](https://github.com/joshmadakor1/AD_PS)
-  - [FIM (File Integrity Monitor)](https://github.com/joshmadakor1/PowerShell-Integrity-FIM)
-- <b>C# (.NET Desktop Applications)</b>
-  - [Ransomware Proof of Concept (Encrypter)](https://github.com/joshmadakor1/EncrypterPOC)
-  - [Ransomware Proof of Concept (Decrypter)](https://github.com/joshmadakor1/DecrypterPOC)
-  - [Keylogger with Email Capability](https://github.com/joshmadakor1/Key-Logger-With-Email)
+- <b>Capstone Project - Bella Beat Fitness Tracker Analysis</b>
+  - [Practicing Data Analysis](https://github.com/jeevareha/Capstone-Project)
+- <b>Analysing Shopping Trends</b>
+  - [Tableau Dashboard - Customer Purchase Insights](https://public.tableau.com/app/profile/jeevareha.krishnaraj/viz/CustomerPurchaseInsights_17147793120990/Dashboard1) 
+- <b>Netflix data analysis</b>
+  - [Tableau Dashboard - NetflixInsights](https://public.tableau.com/app/profile/jeevareha.krishnaraj/viz/NetflixInsights_17118125371290/NetflixInsights)
+  - [Tableau Dashboard - Netflix Kids](https://public.tableau.com/app/profile/jeevareha.krishnaraj/viz/NetflixKidsShowInsights/Kids)
+
+- <b>Sample Super Store Data Analysis</b>
+  - [Tableau Dashboard - Super Store Insights](https://public.tableau.com/app/profile/jeevareha.krishnaraj/viz/SuperStoreInsights_17133959355550/SuperStoreInsights)
+--------------------------------------------------
 - <b>Python</b>
   - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
 

@@ -1,5 +1,6 @@
 <h1>Hi, I'm Jeeva! <br/> <a href="https://www.linkedin.com/in/jeevareha-krishnaraj-a583832b5/">Software Quality Engineer</a>, 
-  <a href="https://www.youtube.com/channel/UC6u2td1udB2T524M42gU4hg">YouTuber</a></h1>
+  <a href="https://www.linkedin.com/in/jeevareha-krishnaraj-a583832b5/"> Data Analyst</a>, 
+  <a href="https://www.youtube.com/channel/UC6u2td1udB2T524M42gU4hg"> YouTuber</a></h1>
 
 <h2>👨‍💻 Data Analysis Projects:</h2>
 

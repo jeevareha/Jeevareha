@@ -14,9 +14,14 @@
 
 - <b>Sample Super Store Data Analysis</b>
   - [Tableau Dashboard - Super Store Insights](https://public.tableau.com/app/profile/jeevareha.krishnaraj/viz/SuperStoreInsights_17133959355550/SuperStoreInsights)
---------------------------------------------------
-- <b>Python</b>
-  - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
+
+- <b>Data Cleaning - SQL</b>
+  - [SQL - Nashville Housing Data cleaning](https://github.com/jeevareha/Data_Cleaning)
+ 
+- <b>Data Analysis - SQL</b>
+  - [SQL - Employee Data Analysis](https://github.com/jeevareha/Employee_Data_Analysis_SQL)
+
+------------------------------------------------------------------
 
 <h2>📺 Popular YouTube Videos</h2>
 

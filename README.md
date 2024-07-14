@@ -14,13 +14,19 @@
 - <b>Sample Super Store Data Analysis</b>
   - [Tableau Dashboard - Super Store Insights](https://public.tableau.com/app/profile/jeevareha.krishnaraj/viz/SuperStoreInsights_17133959355550/SuperStoreInsights)
 
+- <b>Attrition Analysis</b>
+  - [Tableau Dashboard - Employee Attrition Analysis](https://public.tableau.com/views/AttritionAnalysis_17209939633970/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+    
 - <b>Data Cleaning - SQL</b>
   - [SQL - Nashville Housing Data cleaning](https://github.com/jeevareha/Data_Cleaning)
  
 - <b>Data Analysis - SQL</b>
   - [SQL - Employee Data Analysis](https://github.com/jeevareha/Employee_Data_Analysis_SQL)
 
+
 ------------------------------------------------------------------
+
+
 
 
 <h2> 🤳 Connect with me:</h2>
